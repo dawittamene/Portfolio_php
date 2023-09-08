@@ -97,7 +97,7 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
                     <div class="row">
                         <div class="col-lg-12">
                             <p>
-                            Welcome! I'm dawit tamene, a passionate software developer dedicated to creating innovative solutions.Specializing<br> 
+                            Welcome! I'm Dawit tamene, a passionate software developer dedicated to creating innovative solutions.Specializing<br> 
                             in python Django, php, and other front-end and back-end technologies. I strive to write clean,efficient code powers<br>
                             user-friendly applications. Driven by a love for problem-solving, I enjoy tacklingchallenges and finding creative solutions.<br>
                             I am a lifelong learner, constantly expanding my knowledge and staying up-to-date with the latest industry trends.<br>
