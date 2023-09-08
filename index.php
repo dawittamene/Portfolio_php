@@ -24,7 +24,7 @@ if(isset($_SESSION['view'])){
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&family=Roboto+Serif:opsz,wght@8..144,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
     <title>dawit tamen</title>
-    <?php echo "You Are Number ".$_SESSION['view']." Visiter"
+    <?php echo "You Are Number ".$_SESSION['view']." Visiter. Thank You For Visiting"
     
     
 
@@ -69,8 +69,7 @@ if(isset($_SESSION['view'])){
                             <div id="corner-tr" class="corner"></div>
                         
                             <h3>What I Do</h3>
-                            <p>Lorem ipsum dolor sit amet 
-                            consectetur adipisicing elit.</p>
+                            <p>HI, I Am Full Stack Developer. I Am Work For Frontend Using Those Languages Html, Css, Javascript, Bootstrap AND For Backend I Am Use PHP, MySql Database, Django</p>
                             <div id="corner-br" class="corner"></div>
                             <div id="corner-bl" class="corner"></div>
                         </div>
@@ -164,7 +163,7 @@ if(isset($_SESSION['view'])){
                 </div>
                 <hr>
                 <br>
-                <h4>Top expertise</h4>
+                <h4>Top Expertise</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing <a target="_blank" href="#">learn more </a></p>
 
                 <div id="skils">
@@ -201,7 +200,7 @@ if(isset($_SESSION['view'])){
 
     <section class="s1">
         <div class="main-container">
-            <h3 style="text-align: center;"> Some of my past projects </h3>
+            <h3 style="text-align: center;"> Some Of My Past Projects </h3>
            <div class="post-wrapper">
 
 
@@ -209,7 +208,7 @@ if(isset($_SESSION['view'])){
                 <div class="post">
                     <img class="thumnali" src="images/second.png" alt="not exist">
                     <div class="post-preview">
-                        <h6 class="post-title">Tour Travel</h6>
+                        <h6 class="post-title">Zumbara Travel</h6>
                         <p class="post-intro">this is my website in Tour Travel visit.</p>
                         <a href="https://zumbara.000webhostapp.com/">Read More</a>
                     </div>
@@ -326,7 +325,7 @@ if(isset($_SESSION['view'])){
 
 
     </div>
-    <h1 class="credit"> created by <span> Dawit Tamene </span> | all rights reserved! </h1>
+    <h1 class="credit"> Created by <span> Dawit Tamene </span> | all rights reserved! </h1>
 </section>
 
 <marquee behavior="" direction="left">Something Tells About Dawit Tamene</marquee>
