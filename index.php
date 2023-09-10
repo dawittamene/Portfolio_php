@@ -243,7 +243,7 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
                 <input type="text" name="email" class="input-filed">
 
 
-                <label for="">Massages</label>
+                <label for="">Messages</label>
                 <textarea name="massage" class="input-filed" cols="" rows=""></textarea>
 
 
