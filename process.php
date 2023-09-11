@@ -16,7 +16,6 @@ if ($conn){
     }
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +24,6 @@ if ($conn){
     <link rel="stylesheet" href="end.css">
     <title>dawit tamen</title>
    
-    
 </head>
 <body>
     
