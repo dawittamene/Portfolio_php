@@ -5,11 +5,6 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
     $email = $_POST['email'];
     $massage = $_POST['massage'];
 }
-
-
-
-
-
 $conn = new mysqli('localhost', 'root', '', 'messages_db');
 if ($conn){
     $sql = "insert into `messages`(name,subject,email,massage)values('$name','$subject','$email','$massage')";
@@ -20,8 +15,6 @@ if ($conn){
         die(mysqli_error($conn));
     }
 }
-   
-
 ?>
 
 <!DOCTYPE html>

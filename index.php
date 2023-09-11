@@ -1,5 +1,4 @@
 <?php
-
 session_start();
 if(isset($_SESSION['view'])){
     $_SESSION['view'] = $_SESSION['view'] + 1;
@@ -29,8 +28,6 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
     <title>dawit tamen</title>
     <?php echo "You Are Number ".$_SESSION['view']." Visiter. Thank You For Visiting"
     
-    
-
     ?>
 
 </head>
@@ -43,27 +40,21 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
 
             <div class="intro-wrapper">
                 <div class="nav-wrapper">
-                    
-                    
                     <div class="dots-wrapper">
                         <div id="dot-1" class="browser-dot"></div>
                         <div id="dot-2" class="browser-dot"></div>
                         <div id="dot-3" class="browser-dot"></div>
-
-
                     </div>
 
                     <ul id="navgation">
                         <li><a href="https://www.linkedin.com/in/dawit-tamene-531194273/">contact</a></li>
                         
                     </ul>
-
                 </div>
 
                 <div class="left-wrapper">
                     <img id="profile_pic" src="images/dawit.JPG" alt="doesn't exist">
                     
-
                 </div>
                 <div class="right-wrapper">
                     <div id="preview-shadow">
@@ -77,11 +68,8 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
                             <div id="corner-bl" class="corner"></div>
                         </div>
                     </div>
-
                 </div>
-
             </div>
-            
         </div><br>
     </section>
     <br>
@@ -92,7 +80,6 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
            <div class="about-wrapper">
                 <div class="about-me">
                     <strong><h4 style="font-size: 50;">More About Me </h4></strong>
-
                     <div class="par">
                     <div class="row">
                         <div class="col-lg-12">
@@ -111,48 +98,28 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
                         </div>
 
                     </div>
-
-                        
-
-
-
-                   
-
-
-                      
-
                 </div>
                 </div>
                 <hr>
                 <br>
                 <h4 style="font-size: 50;">Top Expertise</h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing <a target="_blank" href="#">learn more </a></p>
-
                 <div id="skils">
-
                     <ul>
                         <br>
-                        
                         <img class="thumnali" id="social"  src="images/pyt.png" alt="not exist"><br>
                         <li> Python</li><br>
-                       
                         <img class="thumnali" id="social"  src="images/django.png" alt="not exist"><br>
                         <li>Django</li><br>
-                        
                         <img class="thumnali" id="social"  src="images/java.png" alt="not exist"><br>
                         <li>Javascript</li><br>
                     </ul>
-
-
                     <ul>
                         <br>
-                        
                         <img class="thumnali" id="social"  src="images/html.png" alt="not exist"><br>
                         <li>Html</li><br>
-                        
                         <img class="thumnali" id="social"  src="images/css.png" alt="not exist"><br>
                         <li>Css</li><br>
-                        
                         <img class="thumnali" id="social"  src="images/php1.png" alt="not exist"><br>
                         <li>Php</li><br>
                     </ul>
@@ -194,9 +161,6 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
                 </div>
             </div>
 
-
-
-
             <div>
                 <div class="post">
                     <img class="thumnali" src="images/first.png" alt="not exist">
@@ -208,8 +172,6 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
 
                 </div>
             </div>
-
-
 
             <div>
                 <div class="post">
@@ -245,57 +207,31 @@ integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9If
 
                 <label for="">Messages</label>
                 <textarea name="massage" class="input-filed" cols="" rows=""></textarea>
-
-
-
                 <a href="index.php"><input id="submit-btn" type="submit" value="Send"></a>
             </form>
         </div>
     </section>
-
-
-
-
     <section class="footer">
     <div class="box-container">
-
-
-       
-
-
-       
-
-    
-
-
         <div class="box">
             <h3>Follow us</h3>
-            <a href="https://www.facebook.com/dawit.tcool">facebook</a>
-            <a href="https://www.instagram.com/dawit_1313/">instagram</a>
+            <a href="https://www.facebook.com/dawit.tcool">Facebook</a>
+            <a href="https://www.instagram.com/dawit_1313/">Instagram</a>
             <a href="https://github.com/dawittamene">Github</a>
-            <a href="https://twitter.com/dawittamene559">twitter</a>
-            <a href="https://www.linkedin.com/in/dawit-tamene-531194273/">linledin</a>
+            <a href="https://twitter.com/dawittamene559">Twitter</a>
+            <a href="https://www.linkedin.com/in/dawit-tamene-531194273/">Linledin</a>
+            <a href="https://www.linkedin.com/in/dawit-tamene-531194273/">Email</a>
         </div>
-
 
         <div class="box">
             <h3>Some of my Projects Link Visit </h3>
             <a href="https://zumbara.000webhostapp.com/">Tour Travel</a>
             <a href="#">Books Store</a>
-            
             <a href="#">E-commerce</a>
             <a href="#">Hospital System</a>
         </div>
-
-
     </div>
     <h1 class="credit"> Created by <span> Dawit Tamene </span> | all rights reserved! </h1>
 </section>
-
-
-
-
-
-
 </body>
 </html>
